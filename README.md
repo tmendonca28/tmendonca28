@@ -4,7 +4,7 @@
 - 🔭 I am currently a senior consultant (CTI) at Booz Allen Hamilton and have a good understanding of both technical concepts as well as engaging with C-level stakeholders about cyber security initiatives
 - 🥅 2023 Goals: Learning more about CTI & cloud security. Contributing more to open source projects
 - ⚡ Fun fact: I love exploring new places
-- 👨‍💻 Currently studying for my EJPT
+- 👨‍💻 Currently studying for my GWEB certification
 
 ### Connect with me:
 
