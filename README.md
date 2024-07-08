@@ -5,7 +5,7 @@
 - 🔭 I am currently a senior consultant at Booz Allen Hamilton and have a good understanding of both technical concepts as well as engaging with C-level stakeholders about cyber security initiatives.
 - 🥅 2024 Goals: Learning more about Application & Cloud Security. Contributing more to open source projects.
 - ⚡ Fun fact: I love exploring new places.
-- 👨‍💻 Currently studying for my GWEB certification.
+- 👨‍💻 Currently studying for my GSOC certification.
 
 ### Connect with me:
 
