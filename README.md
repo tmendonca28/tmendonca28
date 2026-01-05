@@ -1,6 +1,6 @@
 ## &nbsp;&nbsp;&nbsp;Anthony Mendonca
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Cybersecurity+Consultant;Application+Security+Enthusiast;Pursuing+Continuous+Growth&center=true&width=440&height=45&color=43E8D8&vCenter=true&pause=1000&size=22)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Cybersecurity+Consultant;Detection+Engineering;Offensive+Security;Pursuing+Continuous+Growth&center=true&width=440&height=45&color=43E8D8&vCenter=true&pause=1000&size=22)
 
 - 🔭 I am currently a senior consultant at Booz Allen Hamilton and have a good understanding of both technical concepts as well as engaging with C-level stakeholders about cyber security initiatives.
 - 📜 GPEN | GWEB | GSOC | Certified DevSecOps Professional | GCP Associate Cloud Engineer | Security+
