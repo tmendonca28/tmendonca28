@@ -6,7 +6,7 @@
 - 📜 GPEN | GWEB | GSOC | Certified DevSecOps Professional | GCP Associate Cloud Engineer | Security+
 - 🥅 2025 Goals: Learning more about Application & Cloud Security. Contributing more to open source projects.
 - ⚡ Fun fact: I love exploring new places.
-- 👨‍💻 Currently learning how to contribute to bug bounty programs & pursuing my GPYC.
+- 👨‍💻 Currently learning how to contribute to bug bounty programs & pursuing my GCDA.
 
 ### Connect with me:
 
