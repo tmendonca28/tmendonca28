@@ -1,24 +1,20 @@
-## &nbsp;&nbsp;&nbsp;Anthony Mendonca
+## Anthony Mendonca
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Cybersecurity+Consultant;Detection+Engineering;Offensive+Security;Pursuing+Continuous+Growth&center=true&width=440&height=45&color=43E8D8&vCenter=true&pause=1000&size=22)
+### Detection engineering, adversary emulation, and the tooling in between.
+I build and test the things that catch attackers. By day I'm a cybersecurity consultant working on enterprise cyber defence transformation i.e. SOC modernisation, detection strategy, and the use of AI to augment security operations. By night I write detections, break them on purpose, and build small tools to make both easier.
 
-- 🔭 I am currently an Associate at Booz Allen Hamilton and have a good understanding of both technical concepts as well as engaging with C-level stakeholders about cyber security initiatives.
-- 📜 GPEN | GWEB | GSOC | Certified DevSecOps Professional | GCP Associate Cloud Engineer | Security+
-- 🥅 2025 Goals: Learning more about Application & Cloud Security. Contributing more to open source projects.
-- ⚡ Fun fact: I love exploring new places.
-- 👨‍💻 Currently learning how to contribute to bug bounty programs & pursuing my GCDA.
+My work sits at the seam between offence and defence: I use offensive technique knowledge (GPEN, GWEB) to write detections that survive contact with a real adversary, and detection engineering discipline (GSOC, GCDA) to make sure emulation produces evidence rather than noise.
+
+### Currently
+Deepening cloud and application security, working toward GCDA, and building tooling around detection validation. Always up for a conversation about detection engineering, purple teaming, or where AI actually helps in a SOC (and where it doesn't).
+
+**Certifications**: GPEN · GWEB · GSOC · Certified DevSecOps Professional · GCP ACE · Security+
 
 ### Connect with me:
 
-<a href="https://anthonymendonca.me">
-    <img src="https://img.shields.io/badge/anthonymendonca.me-333333.svg?style=for-the-badge&logo=Google%20Chrome&color=orange&logoColor=white&url=https%3A%2F%2Fanthonymendonca.me" alt="Personal Website Badge" />
-</a>
-<a href="https://www.linkedin.com/in/anthony-mendonca/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
-</a>
-<a href="https://twitter.com/typhon28">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-</a>
+<a href="https://anthonymendonca.me"> <img src="https://img.shields.io/badge/anthonymendonca.me-333333.svg?style=for-the-badge&logo=Google%20Chrome&color=orange&logoColor=white" alt="Personal Website" /> </a> 
+<a href="https://www.linkedin.com/in/anthony-mendonca/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /> </a> 
+<a href="https://twitter.com/typhon28"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a>
 
 <br />
 
