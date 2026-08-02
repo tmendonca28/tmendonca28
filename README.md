@@ -17,6 +17,3 @@ Deepening cloud and application security, working toward GCDA, and building tool
 <a href="https://twitter.com/typhon28"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a>
 
 <br />
-
-[twitter]: https://twitter.com/typhon28
-[linkedin]: https://www.linkedin.com/in/anthony-mendonca/
