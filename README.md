@@ -5,7 +5,7 @@ I build and test the things that catch attackers. By day I'm a cybersecurity con
 
 My work sits at the seam between offence and defence: I use offensive technique knowledge (GPEN, GWEB) to write detections that survive contact with a real adversary, and detection engineering discipline (GSOC, GCDA) to make sure emulation produces evidence rather than noise.
 
-### Currently
+### Currently...
 Deepening cloud and application security, working toward GCDA, and building tooling around detection validation. Always up for a conversation about detection engineering, purple teaming, or where AI actually helps in a SOC (and where it doesn't).
 
 **Certifications**: GPEN · GWEB · GSOC · Certified DevSecOps Professional · GCP ACE · Security+
